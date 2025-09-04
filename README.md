@@ -1,9 +1,7 @@
 # Hi, I'm Rushi 👋
 
-### Data Engineer | Cloud & Big Data Enthusiast | ML-Enabled Data Systems Builder
-
+### Data Engineer | Cloud & Big Data Enthusiast 
 I design and build **scalable data pipelines, cloud-native architectures, and production-ready analytics platforms**.  
-I leverage **machine learning** to enrich data workflows and enable intelligent, automated solutions.
 
 ---
 
@@ -12,7 +10,6 @@ I leverage **machine learning** to enrich data workflows and enable intelligent,
 - 🎓 **Master’s in Computer Science**, University of North Texas (Aug 2023 – May 2025)  
 - 🛠️ **2+ years of professional experience** in Data Engineering, ETL pipelines, and cloud solutions  
 - 💡 Passionate about building **high-performance, scalable, and reliable data systems**  
-- 🤖 Skilled in integrating **ML models** into data workflows for actionable insights
 
 ---
 
