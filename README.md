@@ -8,7 +8,7 @@ I design and build **scalable data pipelines, cloud-native architectures, and pr
 ## 🚀 About Me
 
 - 🎓 **Master’s in Computer Science**, University of North Texas (Aug 2023 – May 2025)  
-- 🛠️ **2+ years of professional experience** in Data Engineering, ETL pipelines, and cloud solutions  
+- 🛠️ **3+ years of professional experience** in Data Engineering, ETL pipelines, and cloud solutions  
 - 💡 Passionate about building **high-performance, scalable, and reliable data systems**  
 
 ---
