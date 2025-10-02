@@ -1,73 +1,68 @@
-# Hi, I'm Rushi 👋
+# Hi 👋, I'm Rushi Reddy Lambu  
 
-### Data Engineer | Cloud & Big Data Enthusiast 
-I design and build **scalable data pipelines, cloud-native architectures, and production-ready analytics platforms**.  
+🚀 **Data Engineer | Machine Learning Enthusiast | Cloud & Big Data Specialist**  
 
----
-
-## 🚀 About Me
-
-- 🎓 **Master’s in Computer Science**, University of North Texas (Aug 2023 – May 2025)  
-- 🛠️ **3+ years of professional experience** in Data Engineering, ETL pipelines, and cloud solutions  
-- 💡 Passionate about building **high-performance, scalable, and reliable data systems**  
+I’m a Data Engineer with 3+ years of experience building **scalable real-time and batch data pipelines** across **cloud and big data platforms**.  
+I specialize in **data ingestion, transformation, governance, and quality assurance** using tools like **Apache Spark, Kafka, AWS, and Azure**.  
+I’m passionate about designing **high-performance data systems**, enabling **ML workflows**, and driving **data-driven decision-making**.  
 
 ---
 
-## 🛠️ Core Expertise
+## 🔧 Technical Skills  
 
-**Data Engineering & Cloud:**
-
-- Python, SQL, Apache Spark, Airflow, dbt  
-- AWS (S3, Glue, Redshift, Kinesis, EC2, Lambda), Azure Data Factory, Snowflake  
-- Terraform, Docker, CI/CD pipelines
-
-**Machine Learning (Complementary):**
-
-- Scikit-learn, XGBoost, BERT, spaCy, NLTK  
-- Model deployment with FastAPI, Streamlit dashboards  
-- Data preprocessing, feature engineering, and predictive modeling
-
-**Databases & Monitoring:**
-
-- Oracle, SQL Server, PostgreSQL, MongoDB, NoSQL  
-- Jenkins, Grafana, ELK, Prometheus, Great Expectations
+- **Languages**: Python, SQL, Scala, Java, R, Bash  
+- **Big Data & Distributed Systems**: Apache Spark, Flink, Hadoop, Hive, Dask, Presto, Databricks  
+- **Cloud Platforms**: AWS (Glue, Redshift, EMR, S3), Azure (Data Factory, Synapse), GCP (BigQuery, Dataflow), Snowflake  
+- **Streaming & Ingestion**: Kafka, Kinesis, NiFi, Pulsar, Flume, Sqoop  
+- **Data Modeling**: Medallion Architecture, Dimensional Modeling, Data Vault, Star/Snowflake Schema  
+- **ETL & Orchestration**: Airflow, Prefect, dbt, Talend, Informatica, Luigi  
+- **Governance & Compliance**: Great Expectations, Apache Atlas, OpenLineage (GDPR, HIPAA, CCPA compliance)  
+- **Machine Learning Support**: PySpark MLlib, Hugging Face, TensorFlow, Scikit-learn, MLflow  
+- **Databases**: Snowflake, MongoDB, Cassandra, Redshift, HBase, DynamoDB  
 
 ---
 
-## 📈 Featured Projects
+## 💼 Professional Experience  
 
-### 🔍 [Code Problems Search Engine](https://problemhunt.onrender.com)
-- Built a **full-stack search engine** using Databricks, PySpark TF-IDF, and Delta Lake  
-- Automated ingestion pipelines and optimized compute for **1,000+ users**  
-- Achieved **30% faster query performance** on 3,150+ LeetCode problems
+### **Data Engineer @ Charles Schwab (09/2024 – Present | Remote, USA)**  
+- Built a **Real-Time AI-Driven Risk Insights Platform** using Kafka, Kinesis & Lambda.  
+- Reduced latency **42%** in processing high-frequency market data with **Flink & Spark Streaming**.  
+- Delivered **sub-second portfolio analytics** with Redshift & Druid (99.5% uptime).  
+- Provided datasets for **BERT-based NLP models**, improving accuracy by **45%**.  
 
-### 📊 Customer Churn Prediction Pipeline
-- Developed an ML pipeline with Logistic Regression, Random Forest, and XGBoost  
-- Deployed via FastAPI on AWS EC2 using Docker with Streamlit dashboards  
-- Applied SHAP for explainability and tuned hyperparameters to boost performance by 18%  
-
-### 🗂️ Cloud Data Workflows
-- Designed ETL pipelines using **Spark, Airflow, and dbt** for large-scale datasets  
-- Managed **Snowflake warehouse operations**, automated workflows, and improved query performance  
-- Provisioned and monitored cloud infrastructure on **AWS** using Terraform and CI/CD pipelines
+### **Data Engineer @ Health Catalyst (01/2021 – 07/2023 | Hyderabad, India)**  
+- Designed a **Population Health Analytics Platform** with Talend & Informatica → **45% data completeness gain**.  
+- Built scalable pipelines with NiFi, ADF & Hive, reducing ingestion errors by **50%**.  
+- Created PySpark ETL workflows on Databricks → processing speedup **70%**.  
+- Enabled **real-time healthcare streaming** with Kafka + Spark → data latency down **80%**.  
 
 ---
 
-## 🌟 Learning & Growth
+## 📚 Education  
 
-- Advanced ETL & **real-time data pipelines**  
-- **Big Data architecture optimization** and orchestration  
-- Integrating **ML/AI models** into production data systems  
-- Scalable **cloud-native analytics platforms**
+- **MS, Computer and Information Science** – University of North Texas (2023 – 2025)  
+- **B.Tech, Electrical & Electronics Engineering** – SNIST, Hyderabad (2017 – 2021)  
 
 ---
 
-## 🌐 Connect with Me
+## 🔬 Featured Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushireddylambu)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushireddy.lambu@gmail.com)  
-[Portfolio](https://problemhunt.onrender.com)
+- **Scalable Fraud Detection Pipeline**  
+  - Built with **Apache Spark & Kafka** for real-time transaction monitoring.  
+  - Improved fraud detection accuracy and reduced false positives by **40%**.  
+
+- **Cloud-Based Data Lake**  
+  - Designed an **AWS-based data lake** (S3, Glue, Redshift).  
+  - Reduced data retrieval time by **50%** and enabled unified analytics.  
 
 ---
 
-💡 *“Building scalable data systems is my way of predicting the future — one pipeline at a time.”*
+## 🌍 Let's Connect  
+
+- 📫 Email: **rushireddy1506@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rushi-reddy-lambu/)  
+- 🖥️ [GitHub](https://github.com/rushidotpy)  
+
+---
+
+⭐️ From [rushidotpy](https://github.com/rushidotpy)  
