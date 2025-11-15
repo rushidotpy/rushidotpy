@@ -1,4 +1,4 @@
-# 🚀 Advanced AI/ML Systems Engineering — Rushi Reddy LAmbu
+# 🚀 AI/ML Systems Engineering — Rushi Reddy Lambu
 
 Welcome to my portfolio! I’m an experienced AI/ML Engineer with 4+ years delivering production-ready, business-impactful solutions at scale. My expertise spans LLM-enabled feature engineering, agentic workflows, cloud-native MLOps, and optimization for reliability and performance.
 
