@@ -1,68 +1,57 @@
-# Hi 👋, I'm Rushi Reddy Lambu  
+# 🚀 Advanced AI/ML Systems Engineering — Rushi Reddy LAmbu
 
-🚀 **Data Engineer | Machine Learning Enthusiast | Cloud & Big Data Specialist**  
-
-I’m a Data Engineer with 3+ years of experience building **scalable real-time and batch data pipelines** across **cloud and big data platforms**.  
-I specialize in **data ingestion, transformation, governance, and quality assurance** using tools like **Apache Spark, Kafka, AWS, and Azure**.  
-I’m passionate about designing **high-performance data systems**, enabling **ML workflows**, and driving **data-driven decision-making**.  
+Welcome to my portfolio! I’m an experienced AI/ML Engineer with 4+ years delivering production-ready, business-impactful solutions at scale. My expertise spans LLM-enabled feature engineering, agentic workflows, cloud-native MLOps, and optimization for reliability and performance.
 
 ---
 
-## 🔧 Technical Skills  
+## 💡 Highlight: End-to-End LLM-Powered Financial Forecasting
 
-- **Languages**: Python, SQL, Scala, Java, R, Bash  
-- **Big Data & Distributed Systems**: Apache Spark, Flink, Hadoop, Hive, Dask, Presto, Databricks  
-- **Cloud Platforms**: AWS (Glue, Redshift, EMR, S3), Azure (Data Factory, Synapse), GCP (BigQuery, Dataflow), Snowflake  
-- **Streaming & Ingestion**: Kafka, Kinesis, NiFi, Pulsar, Flume, Sqoop  
-- **Data Modeling**: Medallion Architecture, Dimensional Modeling, Data Vault, Star/Snowflake Schema  
-- **ETL & Orchestration**: Airflow, Prefect, dbt, Talend, Informatica, Luigi  
-- **Governance & Compliance**: Great Expectations, Apache Atlas, OpenLineage (GDPR, HIPAA, CCPA compliance)  
-- **Machine Learning Support**: PySpark MLlib, Hugging Face, TensorFlow, Scikit-learn, MLflow  
-- **Databases**: Snowflake, MongoDB, Cassandra, Redshift, HBase, DynamoDB  
+**Summary:**  
+Architected and deployed a GenAI-powered forecasting platform leveraging Anthropic Claude 3, ensemble forecasters, and causal transformer layers on AWS SageMaker + Lambda.  
+**Impact:**  
+- 🏆 Improved forecast accuracy by 25%  
+- 🚀 Reduced decision latency by 32%  
+- 🔒 Ensured data privacy across global regions (GDPR, USA)
 
 ---
 
-## 💼 Professional Experience  
+## 🔨 Technologies & Frameworks
 
-### **Data Engineer @ Charles Schwab (09/2024 – Present | Remote, USA)**  
-- Built a **Real-Time AI-Driven Risk Insights Platform** using Kafka, Kinesis & Lambda.  
-- Reduced latency **42%** in processing high-frequency market data with **Flink & Spark Streaming**.  
-- Delivered **sub-second portfolio analytics** with Redshift & Druid (99.5% uptime).  
-- Provided datasets for **BERT-based NLP models**, improving accuracy by **45%**.  
-
-### **Data Engineer @ Health Catalyst (01/2021 – 07/2023 | Hyderabad, India)**  
-- Designed a **Population Health Analytics Platform** with Talend & Informatica → **45% data completeness gain**.  
-- Built scalable pipelines with NiFi, ADF & Hive, reducing ingestion errors by **50%**.  
-- Created PySpark ETL workflows on Databricks → processing speedup **70%**.  
-- Enabled **real-time healthcare streaming** with Kafka + Spark → data latency down **80%**.  
+- **Languages:** Python, SQL, Java, PySpark, Bash
+- **ML/AI:** PyTorch, TensorFlow, Transformers, XGBoost, LSTM, SHAP, LIME
+- **GenAI/LLMs:** Claude 3, GPT-4, LangChain, RAG, Pinecone, FAISS, Agentic AI
+- **Data Engineering:** Kafka, Pandas, NumPy, Databricks, ETL/ELT, Data Warehousing
+- **MLOps:** Airflow, MLflow, Docker, Kubernetes, Prometheus, Grafana, FastAPI, CI/CD
+- **Cloud:** AWS Sagemaker, Lambda, S3, Azure ML, GCP Vertex AI
 
 ---
 
-## 📚 Education  
+## 🛠️ Sample: Diagnosing & Solving Latency in AI/ML Apps
 
-- **MS, Computer and Information Science** – University of North Texas (2023 – 2025)  
-- **B.Tech, Electrical & Electronics Engineering** – SNIST, Hyderabad (2017 – 2021)  
 
----
-
-## 🔬 Featured Projects  
-
-- **Scalable Fraud Detection Pipeline**  
-  - Built with **Apache Spark & Kafka** for real-time transaction monitoring.  
-  - Improved fraud detection accuracy and reduced false positives by **40%**.  
-
-- **Cloud-Based Data Lake**  
-  - Designed an **AWS-based data lake** (S3, Glue, Redshift).  
-  - Reduced data retrieval time by **50%** and enabled unified analytics.  
+**Approach:**  
+- 🔍 Diagnose latency via end-to-end profiling  
+- 🚦 Optimize ML models (distillation, ONNX, quantization, prompt tuning)  
+- ⚡ Scale cloud infra (auto-scaling, serverless, edge deployment)  
+- 🧩 Refactor APIs for async data handling
 
 ---
 
-## 🌍 Let's Connect  
+## 🏅 What Sets Me Apart?
 
-- 📫 Email: **rushireddy1506@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rushi-reddy-lambu/)  
-- 🖥️ [GitHub](https://github.com/rushidotpy)  
+- **Ownership:** Full-cycle delivery from ideation to production  
+- **Reliability:** Built robust monitoring & retraining pipelines  
+- **Interpretability:** Advanced explainability with SHAP/LIME dashboards  
+- **Collaboration:** Proven cross-team leadership—business to engineering  
+- **Adaptability:** Solved real-world challenges around drift, scale, and compliance
 
 ---
 
-⭐️ From [rushidotpy](https://github.com/rushidotpy)  
+## 📫 Let’s connect!
+
+- [Email](mailto:rushireddylambu9@gmail.com)
+- [LinkedIn]
+---
+
+> “Production AI isn’t just about models—it’s about reliability, user impact, and continuous evolution. Let’s build the future together!”
+
