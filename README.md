@@ -1,4 +1,4 @@
-# 🎯 AI/ML Engineer — Passionate About Building Real-World Solutions
+# 🎯 AI/ML Engineer-Rushi L
 
 Welcome! I’m an AI/ML practitioner who spends my time **learning, experimenting, and building** end-to-end projects that mirror real production systems.  
 I focus on **LLM-driven automation, applied machine learning, scalable data pipelines, and MLOps workflows** through self-directed projects and open-source exploration.
