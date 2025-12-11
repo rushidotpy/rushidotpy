@@ -1,6 +1,6 @@
 # 🎯 AI/ML Engineer-Rushi L
 
-Welcome! I’m an AI/ML practitioner who spends my time **learning, experimenting, and building** end-to-end projects that mirror real production systems.  
+Welcome! I’m an AI/ML engineer who spends my time **learning, experimenting, and building** end-to-end projects that mirror real production systems.  
 I focus on **LLM-driven automation, applied machine learning, scalable data pipelines, and MLOps workflows** through self-directed projects and open-source exploration.
 
 ---
@@ -83,7 +83,7 @@ AWS SageMaker, Lambda, S3, Azure ML, GCP Vertex AI
 
 ## 🌱 Why This Portfolio Exists
 
-I’m actively building impactful ML and GenAI projects as I grow into my **first professional AI/ML role**.  
+I’m actively building impactful ML and GenAI projects and products.  
 If you want to understand how I think or build—my projects are the best place to start.
 
 ---
